@@ -128,6 +128,7 @@ main {
       div.card-links {
         > a {
           padding-right: 5px;
+          text-decoration: none;
         }
 
         svg {
